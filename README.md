@@ -1,5 +1,5 @@
 # Maestria Ejercicio del escenario 2
-
+Se requiere NODE instalado y mongoDb
 ### Back
 ```bash
 cd back
